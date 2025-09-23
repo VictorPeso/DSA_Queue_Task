@@ -27,7 +27,6 @@ public class QueueImplTest {
         Assert.assertEquals(3, this.q.size());
         this.q.push("4");
         Assert.assertEquals(4, this.q.size());
-
     }
 
     @Test
